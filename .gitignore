@@ -1,0 +1,16 @@
+# Build output
+target/
+*.jar
+*.war
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+
+# OS junk
+.DS_Store
+Thumbs.db
